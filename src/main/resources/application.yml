@@ -1,4 +1,4 @@
 spring:
   jackson:
     serialization:
-      INDENT_OUTPUT: true
+      INDENT_OUTPUT: false
